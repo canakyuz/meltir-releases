@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/meltir-banner.webp" alt="MELTIR Hive" width="100%">
+<img src="assets/meltir-banner.webp" alt="MELTIR, the assistant that lives on your Mac" width="100%">
 
 # MELTIR Hive
 
